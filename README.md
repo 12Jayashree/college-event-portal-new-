@@ -116,3 +116,4 @@ Future versions of the project can include:
 
 This project is created for educational and academic purposes.
 screenshot <img width="1920" height="1080" alt="Screenshot 2026-09-30 175927" src="https://github.com/user-attachments/assets/44c72807-ad29-4fae-906a-d323fd8096b3" />
+link  https://12jayashree.github.io/college-event-portal-new-/
